@@ -1,0 +1,14 @@
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\bin\Debug\net9.0\MeujogoDaVelha.exe
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\bin\Debug\net9.0\MeujogoDaVelha.deps.json
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\bin\Debug\net9.0\MeujogoDaVelha.runtimeconfig.json
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\bin\Debug\net9.0\MeujogoDaVelha.dll
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\bin\Debug\net9.0\MeujogoDaVelha.pdb
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\obj\Debug\net9.0\MeujogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\obj\Debug\net9.0\MeujogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\obj\Debug\net9.0\MeujogoDaVelha.AssemblyInfo.cs
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\obj\Debug\net9.0\MeujogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\obj\Debug\net9.0\MeujogoDaVelha.dll
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\obj\Debug\net9.0\refint\MeujogoDaVelha.dll
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\obj\Debug\net9.0\MeujogoDaVelha.pdb
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\obj\Debug\net9.0\MeujogoDaVelha.genruntimeconfig.cache
+C:\Users\451624\Desktop\estrutura de dados\JogoDaVelha\MeuJogoDaVelha\obj\Debug\net9.0\ref\MeujogoDaVelha.dll
